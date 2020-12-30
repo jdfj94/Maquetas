@@ -217,7 +217,7 @@ body{
     animation: principal 8s  linear infinite 2s;
     animation-timing-function: ease-in-out;
     background-color: transparent;
-    background-image: url(Imágenes\ de\ prueba/aceite2.jpg);
+    background-image: url(../Imagenes/aceite2.jpg);
     overflow: hidden;
 }
 
@@ -225,12 +225,12 @@ body{
     
 
     0% {
-        background-image: url(Imágenes\ de\ prueba/aceite2.jpg);
+        background-image: url(../Imagenes/aceite2.jpg);
     
     }
 
     50% {
-        background-image: url(Imágenes\ de\ prueba/aceite3.jpg);
+        background-image: url(../Imagenes/aceite3.jpg);
     
     }
 }
@@ -265,7 +265,7 @@ body{
 
 .bloque-decorativo{
     height: 400px;
-    background-image: url(Imágenes\ de\ prueba/Fondo1-legado.jpg);
+    background-image: url(../Imagenes/Fondo1-legado.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -275,7 +275,7 @@ body{
 /* ---- 4 BLOQUES ---- */
 
 .bloques-4{
-    background-image: url(Imágenes\ de\ prueba/fondo-bloques-legado.jpg);
+    background-image: url(../Imagenes/fondo-bloques-legado.jpg);
     background-size: cover;
     background-position: center;
 }
