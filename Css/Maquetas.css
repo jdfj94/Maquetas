@@ -321,3 +321,10 @@
     .trabajos__titulo{
         font-size: 19px;
     }
+}
+
+    @media screen and (max-width: 767px){
+
+    .trabajos__titulo{
+        font-size: 23px;
+    }
