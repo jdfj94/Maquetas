@@ -167,7 +167,6 @@
         justify-items: center;
         row-gap: 2rem;
         display: flex;
-        flex-wrap: wrap;
         margin: auto;
       width: 85%;
     }
@@ -286,6 +285,16 @@
 
         .trabajos__img{
             width: 100%;
+        }
+
+        .home{
+            flex-direction: column;
+            width: 85%;
+        }
+
+        .trabajos__container {
+            width: 99%;
+            flex-wrap: wrap;
         }
 
     }
