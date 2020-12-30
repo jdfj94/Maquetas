@@ -42,7 +42,7 @@
                 <div class="trabajos__img">
                     <img src="Imagenes/proyecto-alex.jpg" alt="Proyecto alex photographer">
 
-                    <a href="https://www.alxphotographer.com/" target="blank">
+                    <a href="AlxPhotographer/Alxphotographer.html" target="blank">
                         <div class="trabajos__data">
                             <span class="trabajos__titulo">Web de fotografía</span>
                             <i class='bx bx-link-alt trabajos__link'></i>
@@ -53,7 +53,7 @@
                 <div class="trabajos__img">
                     <img src="Imagenes/proyecto-legado.jpg" alt="Proyecto Legado Nazarí">
 
-                    <a href="https://legadonazari.com/" target="blank">
+                    <a href="LegadoNazari/legadonazari.html" target="blank">
                         <div class="trabajos__data">
                             <span class="trabajos__titulo">Tienda de botellas de aceite</span>
                             <i class='bx bx-link-alt trabajos__link'></i>
