@@ -211,6 +211,7 @@
     .trabajos__titulo{
         font-size: var(--h2-font-size);
         color: var(--first-color-lighten);
+        padding-bottom: 20px;
     }
 
     .trabajos__descripcion{
