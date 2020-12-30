@@ -35,7 +35,7 @@
             <h2 class="section-title">Maquetaciones en HTML y CSS</h2>
             <p class="texto__proyectos">A continuación puedes ver algunos ejemplos de maquetaciones realizadas con HTML
                 y CSS. El objetivo es exclusivamente practicar y mejorar mis conocimientos en ambos lenguajes, no son proyectos
-                entregados al cliente. Los originales los puedes ver en mi <a href="http://cvjdfj.herokuapp.com/" target="blank">CV</a>.</p>
+                entregados al cliente. Los originales los puedes ver en mi <a class="link-cv" href="http://cvjdfj.herokuapp.com/" target="blank">CV</a>.</p>
 
             <div class="trabajos__container">
 

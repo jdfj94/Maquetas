@@ -156,6 +156,12 @@
 
     /* ---- PROYECTOS ---- */
 
+    .link-cv{
+        text-decoration: underline;
+        color: rgb(88, 88, 180);
+        font-size: 17px;
+    }
+
     .texto__proyectos{
         text-align:center;
         width: 80%;
@@ -328,3 +334,4 @@
     .trabajos__titulo{
         font-size: 23px;
     }
+}
