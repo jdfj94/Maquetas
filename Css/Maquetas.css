@@ -309,5 +309,15 @@
         .section{
             padding: 3rem 0 2rem;
         }
+
+        .trabajos__titulo{
+            font-size: 22px;
+        }
     
+    }
+
+    @media screen and (max-width: 1024px){
+
+    .trabajos__titulo{
+        font-size: 19px;
     }
