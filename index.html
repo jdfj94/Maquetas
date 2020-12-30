@@ -7,6 +7,6 @@
 </head>
 <body>
     este es mi primerito body
-    <a href="Alxphotographer/Alxphotographer.html">alx</a>
+    <a href="AlxPhotographer/Alxphotographer.html">alx</a>
 </body>
 </html>
